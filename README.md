@@ -1,21 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;SAP+Basis+Consultant+Intern;Sistem+ve+A%C4%9F+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nursena-taskopru/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kuralım-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nursenataskopru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Bana_Yazın-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### 👩‍💻 Hakkımda: Kodlar ve Sistemler
-
-Selam, ben Nursena! 👋 
 
 ---
 
