@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=23D18B&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B;SAP+Basis+Consultant+Intern;Web+Geli%C5%9Ftirici(T%C3%9CB%C4%B0TAK)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=23D18B&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B;Junior+SAP+Basis+Consultant(T%C3%9CB%C4%B0TAK)" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,21 +15,15 @@
 
 ---
 
-### 👩‍💻 Hakkımda
+### Projeler ve Odak Alanları
 
-**Necmettin Erbakan Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim. Şu anda **Anadolu Birlik Holding** bünyesinde **Junior SAP Basis Danışmanı** olarak staj yapıyor, büyük ölçekli kurumsal sistemlerin operasyonel sürekliliğini kontrol ediyorum.
-
----
-
-### 🚀 Projeler ve Odak Alanları
-
-* 🛠️ **SAP Basis & Sistem Yönetimi:** Sistemlerin günlük sağlık kontrolleri, Transport yönetimi, Job yönetimi ve kullanıcı yetkilendirme süreçleri.
-* 📡 **IoT & Gömülü Sistemler (TÜBİTAK 2209-A):** Arduino ve RaspberryPi ile "Yenilenebilir Braille Ekranı" projesi.
-* 🌐 **Web Geliştirme:** PHP, JavaScript ve SQL teknolojileriyle dinamik web projeleri ve veritabanı yönetimi.
+**SAP Basis & Sistem Yönetimi:** Sistemlerin günlük sağlık kontrolleri, Transport yönetimi, Job yönetimi ve kullanıcı yetkilendirme süreçleri.
+**IoT & Gömülü Sistemler (TÜBİTAK 2209-A):** Arduino ve RaspberryPi ile "Yenilenebilir Braille Ekranı" projesi.
+**Web Geliştirme:** PHP, JavaScript ve SQL teknolojileriyle dinamik web projeleri ve veritabanı yönetimi.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### Kullandığım Teknolojiler
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
