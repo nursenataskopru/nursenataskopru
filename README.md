@@ -19,14 +19,17 @@
 
 **SAP Basis & Sistem Yönetimi:** Sistemlerin günlük sağlık kontrolleri, Transport yönetimi, Job yönetimi ve kullanıcı yetkilendirme süreçleri.
 <br>
+
 **IoT & Gömülü Sistemler (TÜBİTAK 2209-A):** Arduino ve RaspberryPi ile "Yenilenebilir Braille Ekranı" projesi.
 <br>
+
 **Web Geliştirme:** PHP, JavaScript ve SQL teknolojileriyle dinamik web projeleri ve veritabanı yönetimi.
 
 ---
 
 ### 🛠️ Teknoloji ve Yetkinlikler
 
+CV'mdeki yeteneklerin teknik kategorizasyonu:
 
 **Sistem, Network & Güvenlik**
 <br>
@@ -56,4 +59,4 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-<img src="https://img.shields
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
