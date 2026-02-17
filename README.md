@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00f2ff&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B;SAP+Basis+Consultant+olarak+staj+yapıyorum />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,15 +15,17 @@
 
 ---
 
-### 🚀 Projeler ve Odak Alanları
+### Projeler ve Odak Alanları
 
-* **SAP Basis & Sistem Yönetimi:** Sistemlerin günlük sağlık kontrolleri, Transport yönetimi, Job yönetimi ve kullanıcı yetkilendirme süreçleri.
-* **IoT & Gömülü Sistemler (TÜBİTAK 2209-A):** Arduino ve RaspberryPi ile geliştirdiğim **"Yenilenebilir Braille Ekranı"** projesi.
-* **Web Geliştirme:** PHP, JavaScript ve SQL teknolojileriyle dinamik web projeleri ve veritabanı yönetimi.
+**SAP Basis & Sistem Yönetimi:** Sistemlerin günlük sağlık kontrolleri, Transport yönetimi, Job yönetimi ve kullanıcı yetkilendirme süreçleri.
+<br>
+**IoT & Gömülü Sistemler (TÜBİTAK 2209-A):** Arduino ve RaspberryPi ile "Yenilenebilir Braille Ekranı" projesi.
+<br>
+**Web Geliştirme:** PHP, JavaScript ve SQL teknolojileriyle dinamik web projeleri ve veritabanı yönetimi.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### Kullandığım Teknolojiler
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
@@ -38,7 +40,3 @@
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=60&section=footer"/>
-</div>
