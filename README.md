@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Selamlar!+Ben+Nursena+%F0%9F%91%8B;cisi" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,8 +11,10 @@
   </a>
 </p>
 
+---
 
-### Kullandığım araçlar ve diller
+### 🛠️ Kullandığım araçlar ve diller
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
@@ -30,3 +32,14 @@
 </p>
 
 ---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nursenataskopru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nursenataskopru&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nursenataskopru&label=Profil+Ziyaretçisi&color=blueviolet&style=flat" alt="counter" />
+</p>
