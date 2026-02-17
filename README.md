@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Projeler ve Odak Alanları
+### Projeler ve Odak Alanları
 
 **SAP Basis & Sistem Yönetimi:** Sistemlerin günlük sağlık kontrolleri, Transport yönetimi, Job yönetimi ve kullanıcı yetkilendirme süreçleri.
 <br>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Teknoloji ve Yetkinlikler
+### Teknoloji ve Yetkinlikler
 **Sistem, Network & Güvenlik**
 <br>
 <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
