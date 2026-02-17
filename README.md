@@ -19,7 +19,7 @@ Kullandığım araçlar ve diller. durması için modern rozetler kullandım:
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
