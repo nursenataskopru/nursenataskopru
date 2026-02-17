@@ -4,18 +4,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nursena-taskopru/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nursenataskopru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EmailD14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Teknik Yeteneklerim (Tech Stack)
-
-Kullandığım araçlar ve diller. durması için modern rozetler kullandım:
+### Kullandığım araçlar ve diller
 
 <p align="left">
   <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
