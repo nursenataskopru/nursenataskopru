@@ -28,9 +28,6 @@
 ---
 
 ### 🛠️ Teknoloji ve Yetkinlikler
-
-CV'mdeki yeteneklerin teknik kategorizasyonu:
-
 **Sistem, Network & Güvenlik**
 <br>
 <img src="https://img.shields.io/badge/SAP_Basis-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
