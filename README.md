@@ -30,16 +30,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nursenataskopru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nursenataskopru&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nursenataskopru&label=Profil+Ziyaretçisi&color=blueviolet&style=flat" alt="counter" />
-</p>
